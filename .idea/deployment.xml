@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mly@10.10.4.115:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="mly@10.10.4.115:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/n" local="$PROJECT_DIR$" web="10.10.4.115" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mly@10.10.4.115:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mly/n" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
